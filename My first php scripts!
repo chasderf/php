@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<body>
+
+<?php
+Echo “My first PHP scripts!” ;
+?>
+
+</body>
+</html>
+
+———————————
+Echo presents the string/information
