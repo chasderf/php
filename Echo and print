@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<body>
+</php
+$txt1 = “Learn PHP”;
+$txt2 = “W3Schools.com”
+$x = 5
+$y = 4
+Echo “<h2>” . $txt1 . “</h2>”
+Echo “study pHP at “ . $txt2 . “<br>” ;
+Echo $x + $y;
+?>
+</body>
+</html>
+
+//
+Basically we can put echo values with html headings if we include the quotation mark
+
+<?PHP
+Print “<h2> PHP is Fun! </h2>”;
+Print “hello world!<br>”;
+Print “I’m about to learn PHP!”;
+?>
+So print and echo do the same function
