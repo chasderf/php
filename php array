@@ -1,0 +1,15 @@
+<?php
+$cars = array(“Volvo”, “BMW”, “Toyota”);
+Var_dump($cars);
+?>
+————————————
+Prints
+
+Array(3) {
+[0] =>
+String(5) “Volvo”
+[1] =>
+String(3)”BMW”
+[2] =>
+String(6)”Toyota”
+}
