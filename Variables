@@ -1,0 +1,8 @@
+<?php
+$txt = “hello world” ;
+$x = 5;
+$y = 10.5
+?>
+
+You have to put $ infront of a variable, now they all activated and set to their values
+A variable cannot start with a number, only a letter or the underscore character
